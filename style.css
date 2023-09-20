@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.header{
+    padding: 2rem;
+    background-color: black;
+    color: grey;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.main{
+    background-image: url("https://i.pinimg.com/236x/50/fb/c7/50fbc7c31bbb02027c7bf549e93caf7c--daenerys-drogo-daenerys-targaryen.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    
+}
+
+#ip-box{
+    padding: 1rem;
+    margin: 1rem;
+    width: 50%;
+    height: 20vh;
+    font-family: sans-serif;
+    color: white;
+    background-color: black;
+    border-radius: 1rem;
+    border-color: silver;
+}
+
+.btn{
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: auto;
+    padding: 1rem;
+    border-style: none;
+    border-radius: 1rem;
+    font-weight: bold;
+    color: black;
+    background-color: beige;
+}
+
+footer {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: silver;
+    padding: 1rem;
+    margin: 0px;
+}
