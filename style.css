@@ -33,18 +33,32 @@
     border-color: silver;
 }
 
-.btn{
+#op-box{
+    padding: 1rem;
+    margin: 1rem;
+    width: 50%;
+    height: 20vh;
+    font-family: sans-serif;
+    color: white;
+    background-color: black;
+    border-radius: 1rem;
+    border-color: silver;
+}
+
+#btn{
     font-family: sans-serif;
     display: flex;
     flex-direction: row;
     justify-content: center;
     margin: auto;
-    padding: 1rem;
+    padding: 3rem;
     border-style: none;
     border-radius: 1rem;
     font-weight: bold;
     color: black;
     background-color: beige;
+    font-size: 40px;
+    
 }
 
 footer {
@@ -57,4 +71,5 @@ footer {
 
 h2{
     margin-top: 30px;
+    font-size: 40px;
 }
