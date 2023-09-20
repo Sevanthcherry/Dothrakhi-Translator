@@ -14,7 +14,7 @@
 }
 
 .main{
-    background-image: url("https://i.pinimg.com/236x/50/fb/c7/50fbc7c31bbb02027c7bf549e93caf7c--daenerys-drogo-daenerys-targaryen.jpg");
+    background-image: url("https://people.com/thmb/K9wZaxPAXEE7ZCyLMMVC6rzMZSA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(629x259:631x261)/jason-momoa-emilia-clarke-633dfd6784b34358b6bd44e7ca62bd4f.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
@@ -52,4 +52,9 @@ footer {
     background-color: silver;
     padding: 1rem;
     margin: 0px;
+    font-size: larger;
+}
+
+h2{
+    margin-top: 30px;
 }
